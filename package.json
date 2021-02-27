@@ -1,0 +1,17 @@
+{
+  "name": "bg-direct",
+  "version": "0.0.5",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fauzan <muhammadfauzan@live.com>",
+  "license": "ISC",
+  "dependencies": {
+    "cacheman": "^2.2.1",
+    "cacheman-file": "^0.2.1",
+    "curl-ganteng": "^0.0.18",
+    "node-fetch": "^2.6.0"
+  }
+}
